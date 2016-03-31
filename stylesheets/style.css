@@ -57,7 +57,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 .audio-player-wrapper {
   width: 300px;
   margin: 100px auto 0 auto;
-  background-color: #eaeae8;
+  background-color: #fff;
   border-color: #0083ff;
   border-radius: 4px;
    }
@@ -295,3 +295,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   padding: 5px 2px 2px 2px;
 }
 
+.line-separator{
+
+/*height:0.5px;*/
+
+background:#0038ff;
+
+border-bottom:1px solid #0038ff;
+margin-bottom: 3px;
+
+}
